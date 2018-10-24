@@ -16,3 +16,7 @@
     top: 8px;
     border-radius:50%;
 }
+
+.blue-border {
+    border: 1px solid #3373dc !important;
+  }
